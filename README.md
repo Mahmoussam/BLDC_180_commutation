@@ -26,6 +26,8 @@ The project is ongoing and requires more enhancements and improvements for great
   -  ⚡ Power Inverter and 48v DC Battery
 
 ## system specs:
+  -> `hall_sensor` and `motor_utils` modules are intended to form some basic but useful API layer for motor control.
+
   [+]  Timer1: PWM generation for the commutation (10kHz switching)
   
   [+]  Timer2: Is used to emulate hall sensors.
